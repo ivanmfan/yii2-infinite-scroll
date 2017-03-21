@@ -1,5 +1,5 @@
 {
-  "name": "darkcs/yii2-infinite-scroll",
+  "name": "ivanmfan/yii2-infinite-scroll",
   "description": "Link pager with infinite scroll support.",
   "type": "yii2-extension",
   "keywords": [
